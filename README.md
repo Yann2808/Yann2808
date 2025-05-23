@@ -1,8 +1,9 @@
 ## Hi, I'm Yann
 
-- Problem solver </br>
 - MIAGE's Student </br>
+- Problem solver </br>
 - Software Engineer </br>
+- No & Low Code Addict </br>
 - Business Analyst </br>
 
 

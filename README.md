@@ -4,7 +4,7 @@
 - Problem solver </br>
 - Software Engineer </br>
 - No & Low Code Addict </br>
-- Business Analyst </br>
+- Data, BI & IA Addict </br>
 
 
 ## 🌐 Socials:
